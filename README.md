@@ -1,6 +1,6 @@
 # rn-character-demo
 
-### This demo demonstrate how to use DeepLinking inaddition to GraphQl.
+### This demo demonstrates how to use DeepLinking inaddition to GraphQl.
 
 ### To use repo., please follow these steps:
 - clone the repo.
