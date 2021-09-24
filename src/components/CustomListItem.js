@@ -3,8 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 import { ListItem } from "react-native-elements";
 import { COLORS } from "../constants";
 
-const CustomListItem = ({ title, subtitle }) => {
-	return (
+const CustomListItem = ({ title, subtitle }) =>  (
 		<ListItem bottomDivider topDivider containerStyle={styles.listItem}>
 			<View style={styles.textWrapper}>
 				<ListItem.Title>{title}</ListItem.Title>
@@ -13,7 +12,7 @@ const CustomListItem = ({ title, subtitle }) => {
 			</View>
 		</ListItem>
 	);
-};
+
 
 export default CustomListItem;
 
