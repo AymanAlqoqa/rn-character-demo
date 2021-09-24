@@ -8,9 +8,9 @@
 - expo start
 
 ### To test the app from expo:
-- click on this (exp://exp.host/@aymanalqoqa/rn-character-demo)
+- use this line (exp://exp.host/@aymanalqoqa/rn-character-demo)
 
-### To test deepLinking from your mobile, open Opera Browser(in android) and then type this address:
+### To test deepLinking from your mobile, open Opera Browser(in android), then type this address:
   - (home screen) -->    exp://exp.host/@aymanalqoqa/rn-character-demo/--/home
   - (details screen) -->    exp://exp.host/@aymanalqoqa/rn-character-demo/--/details?id=1
      - id maybe any no. from 1 to 671
