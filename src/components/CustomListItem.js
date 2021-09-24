@@ -4,7 +4,6 @@ import { ListItem } from "react-native-elements";
 import { COLORS } from "../constants";
 
 const CustomListItem = ({ title, subtitle }) => {
-	console.log(subtitle);
 	return (
 		<ListItem bottomDivider topDivider containerStyle={styles.listItem}>
 			<View style={styles.textWrapper}>
