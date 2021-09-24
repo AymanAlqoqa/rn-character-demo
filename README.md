@@ -15,7 +15,15 @@
   - (details screen) -->    exp://exp.host/@aymanalqoqa/rn-character-demo/--/details?id=1
      - id maybe any no. from 1 to 671
      - if id is not added in the query, the app assumes id=1 as default
- 
- 
+   
+ ### To test deepLinking within emulator type this line in cli(note --> port may change):
+  - (home screen) -->    npx uri-scheme open exp://127.0.0.1:19000/--/home --android
+  - (details screen) -->    npx uri-scheme open exp://127.0.0.1:19000/--/details?id=10 --android
+  
   Thanks
+ --------------- 
   Ayman
+  
+  Full Stack Web/Mobile Dev.
+  
+  aalqouqa@gmail.com
