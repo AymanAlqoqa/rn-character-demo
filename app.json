@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "demo app, used deeplinks and graphql",
+    "githubUrl": "https://github.com/AymanAlqoqa/rn-character-demo.git"
   }
 }
